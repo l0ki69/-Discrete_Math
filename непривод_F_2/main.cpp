@@ -18,6 +18,7 @@ void mark(unsigned int n, std::vector<bool> &m, unsigned int sum, unsigned int m
     }
  }
 
+
 int main()
  {
     unsigned int n;
